@@ -3,7 +3,7 @@ a simple multiplayer terminal-based game made with python. Backend in fastapi.
 
 ![image](https://user-images.githubusercontent.com/77999105/131205194-a5b54dc8-c54b-4971-82bc-2502f5b54242.png)
 
-### DEPENDENCIES
+## DEPENDENCIES
 requests module
 
 fastapi
