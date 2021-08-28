@@ -1,7 +1,7 @@
 # multiplayer-terminal-game
 a simple multiplayer terminal-based game made with python. Backend in fastapi. 
 
-# PLEASE REMEMBER
+### PLEASE REMEMBER
 change the host_url variable in the client.py file to the server's IP adress which you are conecting to
 command to run server is "uvicorn serverside:app --reload" assuming you have the uvicorn lib installed
 
