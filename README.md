@@ -5,5 +5,7 @@ a simple multiplayer terminal-based game made with python. Backend in fastapi.
 
 ### DEPENDENCIES
 requests module
+
 fastapi
+
 uvicorn (optional, strongly recomended because it's how you run the fastapi server)
